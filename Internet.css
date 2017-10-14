@@ -1,0 +1,213 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: sans-serif;
+}
+#wrapper{
+	width: 970px;
+	margin: 0px auto;
+	background: linear-gradient(#e3e3e3, #fff);	
+}
+#top-content{
+	padding: 15px;
+}
+#header img{
+	width: 100px;
+	margin-bottom: -25px;
+
+}
+#header-right{
+	display: inline-block;
+	vertical-align: top;
+	font-size: 40px;
+	padding-top: 25px;
+}
+#header-right span{
+	color: #3d80b1;
+}
+#title{
+	background: linear-gradient(#2171ac, #6a97b8, #2171ac);
+	padding: 10px 0px 10px 15px;
+	font-size: 30px;
+	color: white;
+}
+#side-content{
+	display: inline-block;
+	width: 200px;
+	font-size: 14px;
+	margin-left: 15px;
+	
+}
+#side-content p{
+	display: inline-block;
+
+}
+#side-content #resources{
+	border-bottom: 1px solid #c0c0c0;
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+}
+#side-content button{
+	width: 160px;
+	height: 40px;
+	color: white;
+	border-radius: 8px;
+}
+#side-content .p1{
+	margin-bottom: 10px;
+	font-weight: bold;
+}
+#side-content .p2{
+	margin-bottom: 20px;
+	font-weight: bold;
+}
+#side-content .p1 span{
+	color: red;
+}
+#side-content .p2 span{
+	color: #3d80b1;
+}
+#side-content .b1{
+	background: linear-gradient(#19689e, #5697c5);
+	margin-left: 20px;
+}
+#side-content .b2{
+	background: linear-gradient(#ff6a00, #f5b861);
+	margin-left: 20px;
+}
+#side-content #ad{
+	background: url(images/ad_background.png);
+	padding: 20px 10px;
+	text-align: center;
+}
+#ad p{
+	color: white;
+	font-size: 18px;
+}
+#ad img{
+	width: 100px;
+	margin-right: 10px;
+}
+#ad .b3{
+	background: linear-gradient(#02b9d7, #56d3e2);
+}
+
+#phone-num{
+	display: inline-block;
+	vertical-align: top;
+	width: auto;
+	padding-bottom: 10px;
+	padding-left: 30px;
+	border-bottom: 1px solid #c0c0c0;
+}
+#phone-num img{
+	display: inline-block;
+}
+#phone-num .home{
+	width: 25px;
+	vertical-align: top;
+}
+#phone-num h2{
+	display: inline-block;
+	vertical-align: top;
+}
+#phone-num p{
+	display: inline-block;
+	font-size: 10px;
+}
+#phone-num .phone{
+	width: 40px;
+	margin-left: 412px;
+}
+#phone-num span{
+	color: #04aeda;
+}
+#phone-num h2{
+	color: #3d80b1;
+}
+
+
+#clients{
+	display: inline-block;
+	width: 700px;
+	position: relative;
+	left: 250px;
+	bottom: 425px;
+	padding: 10px 0px;
+
+}
+#clients ul{
+	list-style-position: inside;
+	margin-top: 10px;
+	font-size: 12px;
+}
+#clients li{
+	margin-top: 10px;
+	/*margin-left: 20px;*/
+	padding-left: 20px;
+	text-indent: -17px;
+}
+#clients h3{
+	color: #3d80b1;
+	margin-bottom: 10px; 
+}
+#clients span{
+	color: #13b3dc;
+}
+#clients img{
+	width: 250px;
+	position: absolute;
+	left: 225px;
+	margin-top: 20px;
+}
+#instructions{
+	display: inline-block;
+	width: 700px;
+	position: relative;
+	left: 250px;
+	bottom: 310px;
+}
+#instructions ol{
+	list-style-position: inside;
+	font-size: 12px;
+}
+#instructions li{
+	margin-bottom: 10px;
+	padding-left: 20px;
+	text-indent: -14px;
+}
+#instructions h3{
+	color: #3d80b1;
+	margin-bottom: 10px;
+}
+#instructions span{
+	color: #13b3dc;
+}
+#big-three{
+	border-top: 5px solid blue;
+	border-left: 5px solid blue;
+	border-right: 5px solid blue;
+	display: inline-block;
+	position: relative;
+	width: 674px;
+	left: 250px;
+    bottom: 300px;
+    padding: 10px;
+}
+#big-three img{
+	width: 100px;
+}
+#big-three h3{
+	display: inline-block;
+	vertical-align: top;
+	color: #3d80b1;
+	margin-bottom: 10px;
+}
+#big-three p{
+	display: inline-block;
+	font-size: 12px;
+	position: relative;
+    left: 110px;
+    bottom: 68px;
+    width: 550px;
+}
